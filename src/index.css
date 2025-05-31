@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap');
+
+body {
+  cursor: url('https://cdn.prod.website-files.com/6013fff62154adaa4600f932/60382eca8956d174010393f3_cursor.svg') 0 0, auto;
+  @apply font-sans;
+}
